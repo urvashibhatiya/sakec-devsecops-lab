@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  safecampus-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: safecampus-emergency-system:latest
+    container_name: safecampus-container
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+      - "80:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - safecampus-net
+
+networks:
+  safecampus-net:
+    driver: bridge

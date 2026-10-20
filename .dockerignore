@@ -1,0 +1,14 @@
+.git
+.github
+node_modules
+npm-debug.log
+coverage
+tests
+terraform
+reports
+docs
+*.md
+.env
+.env.*
+.DS_Store
+Thumbs.db

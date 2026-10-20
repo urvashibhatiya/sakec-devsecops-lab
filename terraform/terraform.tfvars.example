@@ -1,0 +1,7 @@
+# Copy this file to terraform.tfvars and update your values
+aws_region    = "ap-south-1"
+instance_type = "t2.micro"
+key_name      = "safecampus-key"
+ecr_repo_name = "safecampus-emergency-system"
+image_tag     = "latest"
+app_port      = 3000
