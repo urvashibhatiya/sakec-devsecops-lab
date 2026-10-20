@@ -15,7 +15,7 @@
 
 | Student Name | Roll No. | Class & Div | Academic Department |
 | :--- | :---: | :---: | :---: |
-| **[Student Name / Your Name]** | **[Your Roll No]** | TE - Div [X] | Computer Engineering / IT |
+| **Urvashi Bhatiya** | **[Your Roll No]** | TE - Div [X] | Computer Engineering / IT |
 
 <br>
 
@@ -34,7 +34,7 @@ This is to certify that the microproject report entitled:
 
 > **“SafeCampus – Agile-Based Development Framework for a Smart Campus Emergency Response System with Automated DevSecOps CI/CD and AWS Infrastructure”**
 
-submitted by **[Student Name]** (Roll No: **[Your Roll No]**) in partial fulfillment of the requirements of the Continuous Internal Assessment Practical (CIAP) for the course **Software Engineering Practices / DevSecOps Lab (Course Code: CSCOR1PC302)**, is a bonafide record of original academic and practical work carried out under my guidance and supervision at Shah & Anchor Kutchhi Engineering College during the academic year 2026–2027.
+submitted by **Urvashi Bhatiya** (Roll No: **[Your Roll No]**) in partial fulfillment of the requirements of the Continuous Internal Assessment Practical (CIAP) for the course **Software Engineering Practices / DevSecOps Lab (Course Code: CSCOR1PC302)**, is a bonafide record of original academic and practical work carried out under my guidance and supervision at Shah & Anchor Kutchhi Engineering College during the academic year 2026–2027.
 
 <br><br><br>
 
@@ -436,8 +436,8 @@ Looking ahead, this hands-on DevSecOps experience will serve as a definitive cor
 # 10. Evidence of Completion & Submission Checklist
 
 ### 10.1 Digital Evidence Links
-* **GitHub Repository URL:** `https://github.com/[Your-Username]/safecampus-emergency-system`
-* **Recorded Video Demonstration Link (LinkedIn / Cloud):** `https://www.linkedin.com/posts/[Your-LinkedIn-Handle]_[Activity-ID]`
+* **GitHub Repository URL:** `https://github.com/urvashibhatiya/sakec-devsecops-lab`
+* **Recorded Video Demonstration Link (LinkedIn / Cloud):** `https://www.linkedin.com/posts/urvashibhatiya_safecampus-devsecops`
 * **Public AWS Application Instance URL:** `http://[EC2-Public-IP]:3000` (and `http://[EC2-Public-IP]`)
 * **Live Health Check Endpoint:** `http://[EC2-Public-IP]:3000/health`
 * **Project Presentation Slides (PPTX):** Attached as `SafeCampus_DevSecOps_Presentation.pptx`
